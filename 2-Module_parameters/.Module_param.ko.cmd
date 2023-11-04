@@ -1,0 +1,1 @@
+cmd_/home/abdallah/Device_Drivers/Module_parameters/Module_param.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/abdallah/Device_Drivers/Module_parameters/Module_param.ko /home/abdallah/Device_Drivers/Module_parameters/Module_param.o /home/abdallah/Device_Drivers/Module_parameters/Module_param.mod.o;  true

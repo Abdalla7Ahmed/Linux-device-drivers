@@ -1,0 +1,1 @@
+cmd_/home/abdallah/Device_Drivers/write_c_c++_python_application/device_driver.mod := printf '%s\n'   device_driver.o | awk '!x[$$0]++ { print("/home/abdallah/Device_Drivers/write_c_c++_python_application/"$$0) }' > /home/abdallah/Device_Drivers/write_c_c++_python_application/device_driver.mod

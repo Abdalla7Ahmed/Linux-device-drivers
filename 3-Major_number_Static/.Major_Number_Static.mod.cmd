@@ -1,0 +1,1 @@
+cmd_/home/abdallah/Device_Drivers/3-Major_number_Static/Major_Number_Static.mod := printf '%s\n'   Major_Number_Static.o | awk '!x[$$0]++ { print("/home/abdallah/Device_Drivers/3-Major_number_Static/"$$0) }' > /home/abdallah/Device_Drivers/3-Major_number_Static/Major_Number_Static.mod

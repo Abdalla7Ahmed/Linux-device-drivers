@@ -1,0 +1,1 @@
+cmd_/home/abdallah/Device_Drivers/1-Hello_Kernel/hello.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/abdallah/Device_Drivers/1-Hello_Kernel/hello.ko /home/abdallah/Device_Drivers/1-Hello_Kernel/hello.o /home/abdallah/Device_Drivers/1-Hello_Kernel/hello.mod.o;  true

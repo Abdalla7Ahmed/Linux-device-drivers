@@ -1,0 +1,1 @@
+cmd_/home/abdallah/Device_Drivers/3-Major_number_Static/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/abdallah/Device_Drivers/3-Major_number_Static/Module.symvers -T /home/abdallah/Device_Drivers/3-Major_number_Static/modules.order -i Module.symvers -e 

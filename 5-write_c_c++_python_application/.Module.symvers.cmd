@@ -1,0 +1,1 @@
+cmd_/home/abdallah/Device_Drivers/write_c_c++_python_application/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/abdallah/Device_Drivers/write_c_c++_python_application/Module.symvers -T /home/abdallah/Device_Drivers/write_c_c++_python_application/modules.order -i Module.symvers -e 
